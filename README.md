@@ -1,0 +1,1 @@
+# Krai_Terminal.cs
