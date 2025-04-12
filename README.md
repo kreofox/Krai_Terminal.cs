@@ -36,7 +36,7 @@ A custom terminal with command and file handling support written in C#.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://buymeacoffee.com/kreofotimio)
 
-### Build from source
+# 🔨Build from source
 ```bash
 git clone https://github.com/ваш-username/MyTerminal.git
 cd MyTerminal

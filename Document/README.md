@@ -35,7 +35,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://buymeacoffee.com/kreofotimio)
 
-### Сборка из исходников
+# 🔨Сборка из исходников
 ```bash
 git clone https://github.com/ваш-username/MyTerminal.git
 cd MyTerminal
