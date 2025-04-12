@@ -9,6 +9,8 @@ A custom terminal with command and file handling support written in C#.
 - Highlight current directory and Git branch (if available)
 - Cross-platform (Windows/Linux/macOS)
 - Color-coded error and hints output
+
+
 ![Help](/img/Снимок1.PNG)
 
 | Commands | Description |
@@ -62,4 +64,4 @@ The executable file will appear in the folder:
 Krai_Terminal.cs\bin\Debug\net9.0\Krai.exe
 ```
 ## Russian translation
-[![Документация](https://img.shields.io/badge/-Документация-blue)](https://example.com/docs)
+[![Документация](https://img.shields.io/badge/-Документация-blue)](https://github.com/kreofox/Krai_Terminal.cs/tree/main/Document)
