@@ -9,6 +9,7 @@ A custom terminal with command and file handling support written in C#.
 - Highlight current directory and Git branch (if available)
 - Cross-platform (Windows/Linux/macOS)
 - Color-coded error and hints output
+- Also supports git
 
 
 ![Help](/img/Снимок1.PNG)
