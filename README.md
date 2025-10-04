@@ -36,6 +36,7 @@ A custom terminal with command and file handling support written in C#.
 # 💸 Supports
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://buymeacoffee.com/kreofotimio)
+Binance(BTC):12gnSfx6wRHJa7tYpB8JdBJ85gW3i5p9yZ
 
 # 🔨Build from source
 ```bash
